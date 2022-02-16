@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "rojiotti": {
+      "hosting": {
+        "myapp": [
+          "rojiotti"
+        ]
+      }
+    }
+  }
+}
